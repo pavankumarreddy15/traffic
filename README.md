@@ -1,5 +1,10 @@
 # traffic
  Designed a neural network model to identify which traffic sign appears in a photograph given dataset of traffic sign images.
+ 
+ How to run :
+   Run using command : "python3 traffic.py gtrsb(directory name)"
+ 
+ 
 In this project, I used TensorFlow to build a neural network to classify road signs based on an image of those signs.
 To do so, you’ll need a labeled dataset: a collection of images that have already been categorized by the road sign represented in them.
 Several such data sets exist, but for this project, 
